@@ -43,4 +43,11 @@ In this case, the element factor becomes that of a **_super-element_** which con
 
 ## Scanning at angle _ang_ not equal to 90 degrees
 
-In this case we can observe the existence of grating lobes. I consider the case of scanning angle _ang_=125 degrees. The grating lobes can be observed emerging from 
+In this case we can observe the existence of grating lobes. I consider the case of scanning angle _ang_=125 degrees. The grating lobes can be observed emerging from the _ang_=0 degrees or theta=0 degrees end.
+
+- Plot of Radiation Pattern for 16 element array
+
+- Plot of Radiation Pattern for 8 _*super-element*_ array
+
+- Plot of Radiation Pattern for 4 _*super-element*_ array
+
