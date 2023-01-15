@@ -81,3 +81,4 @@ In this case we can observe the existence of grating lobes. I consider the case 
 <img   src="https://user-images.githubusercontent.com/122711883/212566605-00faef53-9379-44b8-8646-bbc0d516bbde.png">
 </p>
 
+~Arghyadeep Pal, MS Student, Applied Electromagnetics Group, Department of Electrical and Computer Engineering, University of California-San Diego.
