@@ -8,7 +8,14 @@ In this case, the element factor is assumed to be that of an isotropic antenna. 
 ### CASE 2: 8 **_super-element_**, each composed of 2 elements spaced at 0.6λ, and these **_super-element_** spaced at 1.2λ
 In this case, the element factor becomes that of a **_super-element_** which consists of 2 elements/isotropic antennas. The array factor thus consists of 8 **_super-element_**, where each **_super-element_** consists of 2 elements/isotropic antennas.
 
+- Plot of Element Factor
+<img  width="1080" height="800" src="https://user-images.githubusercontent.com/122711883/212565159-c0e461dd-2bff-4a94-bc22-e07c827dd86d.png">
 
+- Plot of Array Factor
+<img  width="1080" height="1080" src="https://user-images.githubusercontent.com/122711883/212565158-5c9a69f3-653e-4325-b461-af93db87b41d.png">
+
+- Plot of Radiation Pattern
+<img  width="1080" height="1080" src="https://user-images.githubusercontent.com/122711883/212565160-06520ba1-3a8d-43f0-aac2-a4d088c76990.png">
 
 ### CASE 3: 4 **_super-element_**, each composed of 4 elements spaced at 0.6λ, and these **_super-element_** spaced at 2.4 λ
 In this case, the element factor becomes that of a **_super-element_** which consists of 4 elements/isotropic antennas. The array factor thus consists of 4 **_super-element_**, where each **_super-element_** consists of 4 elements/isotropic antennas.
